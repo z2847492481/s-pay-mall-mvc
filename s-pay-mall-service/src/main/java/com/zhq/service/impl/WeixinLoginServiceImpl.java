@@ -2,10 +2,10 @@ package com.zhq.service.impl;
 
 
 import com.google.common.cache.Cache;
-import com.zhq.domain.po.WeixinTemplateMessageVO;
 import com.zhq.domain.req.WeixinQrCodeReq;
 import com.zhq.domain.res.WeixinQrCodeRes;
 import com.zhq.domain.res.WeixinTokenRes;
+import com.zhq.domain.vo.WeixinTemplateMessageVO;
 import com.zhq.service.ILoginService;
 import com.zhq.service.weixin.IWeixinApiService;
 import lombok.extern.slf4j.Slf4j;

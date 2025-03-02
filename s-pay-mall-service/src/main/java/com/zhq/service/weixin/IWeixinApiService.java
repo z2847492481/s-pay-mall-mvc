@@ -1,10 +1,10 @@
 package com.zhq.service.weixin;
 
 
-import com.zhq.domain.po.WeixinTemplateMessageVO;
 import com.zhq.domain.req.WeixinQrCodeReq;
 import com.zhq.domain.res.WeixinQrCodeRes;
 import com.zhq.domain.res.WeixinTokenRes;
+import com.zhq.domain.vo.WeixinTemplateMessageVO;
 import retrofit2.Call;
 import retrofit2.http.Body;
 import retrofit2.http.GET;

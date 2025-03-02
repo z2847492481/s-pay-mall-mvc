@@ -1,4 +1,4 @@
-package com.zhq.domain.po;
+package com.zhq.domain.vo;
 
 import java.util.HashMap;
 import java.util.Map;
